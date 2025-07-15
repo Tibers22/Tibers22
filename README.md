@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Salut, moi c'est tibers
 
-<!--
-**Tibers22/Tibers22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en double licence **Mathématiques & Économie**
+📍 Passionné par la **finance**, l'**économie**, la **programmation**, l'**entrepreneuriat** et la **data**  
+📈 Intéressé par les technologies, les marchés financiers et les modèles prédictifs
 
-Here are some ideas to get you started:
+## 🚀 Compétences
+- Langages : `Python`, `R`, `LaTeX`, `HTML/CSS`, `Markdown`
+- Thèmes : Data Analysis, Économie appliquée, Automatisation, Trading crypto/memecoins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Ce profil est en construction. De nouveaux projets arriveront très bientôt !*
